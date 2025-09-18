@@ -51,18 +51,21 @@ Replace LOGO in the navbar with your brand name.
 Update content in sections: About, Services, Portfolio, Stats, Contact.
 
 📸 Screenshots
-<img width="1904" height="1078" alt="Screenshot 2025-08-25 201802" src="https://github.com/user-attachments/assets/4c84fa01-d05e-4211-a3f9-ba187b336ba0" />
-<img width="1895" height="984" alt="Screenshot 2025-08-25 201816" src="https://github.com/user-attachments/assets/ea81767d-46c4-4cf3-8319-55cdea524084" />
-<img width="1883" height="982" alt="Screenshot 2025-08-25 201825" src="https://github.com/user-attachments/assets/88c18e77-aef2-4c74-a768-b08a976dc724" />
-<img width="1871" height="937" alt="Screenshot 2025-08-25 201833" src="https://github.com/user-attachments/assets/05e171cf-6cf8-4c47-96d2-fb70d4be0862" />
+<img width="1887" height="923" alt="Screenshot 2025-09-18 163128" src="https://github.com/user-attachments/assets/30bf2320-09eb-4ebe-bb3d-0feb92002ec9" />
+<img width="1881" height="847" alt="image" src="https://github.com/user-attachments/assets/fdd1d4c1-8253-461f-8b22-c5935ed184ef" />
+<img width="1888" height="840" alt="image" src="https://github.com/user-attachments/assets/0df5fdc7-90f8-48a7-93e1-02f3fbb324ce" />
+
+
+
 
 🙋‍♂️ Support
 If you have any questions or need help customizing this landing page:
 
-📧 Email: gautamkarprajapati@gmail.com
+📧 Email: akkiyaduv@gmail.com
 💬 Issues: Create an issue
-🐦 Twitter: @KumarGauat36725
+
 Made with ❤️ for the developer community
+
 
 
 
